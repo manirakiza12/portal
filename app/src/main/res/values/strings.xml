@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">portal</string>
+    <string-array name="names">
+        <item>Generate PNR</item>
+        <item>Check PNR status</item>
+        <item>ENROLLMENT AND REGISTRATION</item>
+        <item>Payments</item>
+        <item>Programmes</item>
+        <item>services</item>
+        <item>BIODATA</item>
+        <item>Academic calender</item>
+    </string-array>
+</resources>
